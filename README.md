@@ -119,7 +119,7 @@ _If you are the publisher and think this repository should not be public, just w
 	}
 ```
 
-## 2. Use BUILDERS when faced with many constructors
+## 2. Use BUILDERS when faced with many constructor parameters
 Is a good choice when designing classes whose constructors or static factories would have more than a handful of parameters.
 
 Builder pattern simulates named optional parameters as in ADA and Python.
